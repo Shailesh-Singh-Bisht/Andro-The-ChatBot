@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi I Am Andro The ChatBot"
+    },
+    {
+      "question": "What up",
+      "answer": "Fine"
+    },
+    {
+      "question": "What are you doing",
+      "answer": "I am helping you "
+    },
+    {
+      "question": "Hello My Friend.",
+      "answer": "Fine"
+    }
+  ]
+}
