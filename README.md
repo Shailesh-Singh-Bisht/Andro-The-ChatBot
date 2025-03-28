@@ -73,17 +73,10 @@ Interact with ANDRO
 
 Enter queries in the chat window.
 Teach ANDRO new responses to improve its knowledge base.
+
 🌐 Connect with Us
 Stay connected and explore more about this innovative project:
-
 GitHub Profile
 LeetCode Profile
-🏷 Tags
-#Chatbot #Python #GUI #Innovation #JSON #DynamicLearning #Tkinter
 
-🛠 Future Enhancements
-Stay tuned for exciting updates, including:
 
-Enhanced Knowledge Base Management: Add an intuitive GUI for managing and editing knowledge base entries.
-Voice Integration: Incorporate speech recognition for voice-based interactions.
-Improved Learning Algorithms: Introduce advanced NLP techniques for better conversational quality.
